@@ -1,51 +1,51 @@
 ﻿state,ABB,capitol,largest_city,land_area,water_area,total_area,population,latitude,longitude
-alabama,al,montgomery,huntsville,"50,645","1,775","52,420",5024279,32.361538,-86.279118
-alaska,ak,juneau,anchorage,"570,641","94,743","665,384",733391,58.301935,-134.41974
-arizona,az,phoenix,phoenix,"113,594",396,"113,990",7151502,33.448457,-112.073844
-arkansas,ar,little rock,little rock,"52,035","1,143","53,178",3011524,34.736009,-92.331122
-california,ca,sacramento,los angeles,"155,779","7,916","163,695",39538223,38.555605,-121.468926
-colorado,co,denver,denver,"103,642",452,"104,094",5773714,39.7391667,-104.984167
-connecticut,ct,hartford,bridgeport,"4,842",701,"5,543",3605944,41.767,-72.677
-delaware,de,dover,wilmington,"1,949",540,"2,489",989948,39.161921,-75.526755
-florida,fl,tallahassee,jacksonville,"53,625","12,133","65,758",21538187,30.4518,-84.27277
-georgia,ga,atlanta,atlanta,"57,513","1,912","59,425",10711908,33.76,-84.39
-hawaii,hi,honolulu,honolulu,"6,423","4,509","10,932",1455271,21.30895,-157.826182
-idaho,id,boise,boise,"82,643",926,"83,569",1839106,43.613739,-116.237651
-illinois,il,springfield,chicago,"55,519","2,395","57,914",12812508,39.78325,-89.650373
-indiana,in,indianapolis,indianapolis,"35,826",593,"36,419",6785528,39.790942,-86.147685
-iowa,ia,des moines,des moines,"55,857",416,"56,273",3190369,41.590939,-93.620866
-kansas,ks,topeka,wichita,"81,759",520,"82,279",2937880,39.04,-95.69
-kentucky,ky,frankfort,louisville,"39,486",921,"40,407",4505836,38.197274,-84.86311
-louisiana,la,baton rouge,new orleans,"43,204","9,174","52,378",4657757,30.45809,-91.140229
-maine,me,augusta,portland,"30,843","4,537","35,380",1362359,44.323535,-69.765261
-maryland,md,annapolis,baltimore,"9,707","2,699","12,406",6177224,38.972945,-76.501157
-massachusetts,ma,boston,boston,"7,800","2,754","10,554",7029917,42.2352,-71.0275
-michigan,mi,lansing,detroit,"56,539","40,175","96,714",10077331,42.7335,-84.5467
-minnesota,mn,saint paul,minneapolis,"79,627","7,309","86,936",5706494,44.95,-93.094
-mississippi,ms,jackson,jackson,"46,923","1,508","48,431",2961279,32.32,-90.207
-missouri,mo,jefferson city,kansas city,"68,742",965,"69,707",6154913,38.572954,-92.189283
-montana,mt,helena,billings,"145,546","1,494","147,040",1084225,46.595805,-112.027031
-nebraska,ne,lincoln,omaha,"76,824",524,"77,348",1961504,40.809868,-96.675345
-nevada,nv,carson city,las vegas,"109,781",791,"110,572",3104614,39.160949,-119.753877
-new hampshire,nh,concord,manchester,"8,953",397,"9,350",1377529,43.220093,-71.549127
-new jersey,nj,trenton,newark,"7,354","1,368","8,722",9288994,40.221741,-74.756138
-new mexico,nm,santa fe,albuquerque,"121,298",292,"121,590",2117522,35.667231,-105.964575
-new york,ny,albany,new york city,"47,126","7,429","54,555",20201249,42.659829,-73.781339
-north carolina,nc,raleigh,charlotte,"48,618","5,201","53,819",10439388,35.771,-78.638
-north dakota,nd,bismarck,fargo,"69,001","1,698","70,699",779094,48.813343,-100.779004
-ohio,oh,columbus,columbus,"40,861","3,965","44,826",11799448,39.962245,-83.000647
-oklahoma,ok,oklahoma city,oklahoma city,"68,595","1,304","69,899",3959353,35.482309,-97.534994
-oregon,or,salem,portland,"95,988","2,391","98,379",4237256,44.931109,-123.029159
-pennsylvania,pa,harrisburg,philadelphia,"44,743","1,312","46,055",13002700,40.269789,-76.875613
-rhode island,ri,providence,providence,"1,034",511,"1,545",1097379,41.82355,-71.422132
-south carolina,sc,columbia,charleston,"30,061","1,960","32,021",5118425,34,-81.035
-south dakota,sd,pierre,sioux falls,"75,811","1,305","77,116",886667,44.367966,-100.336378
-tennessee,tn,nashville,nashville,"41,235",909,"42,144",6910840,36.165,-86.784
-texas,tx,austin,houston,"261,232","7,365","268,597",29145505,30.266667,-97.75
-utah,ut,salt lake city,salt lake city,"82,170","2,727","84,897",3271616,40.7547,-111.892622
-vermont,vt,montpelier,burlington,"9,217",400,"9,617",643077,44.26639,-72.57194
-virginia,va,richmond,virginia beach,"39,490","3,285","42,775",8631393,37.54,-77.46
-washington,wa,olympia,seattle,"66,456","4,842","71,298",7705281,47.042418,-122.893077
-west virginia,wv,charleston,charleston,"24,038",192,"24,230",1793716,38.349497,-81.633294
-wisconsin,wi,madison,milwaukee,"54,158","11,339","65,497",5893718,43.074722,-89.384444
-wyoming,wy,cheyenne,cheyenne,"97,093",720,"97,813",576851,41.145548,-104.802042
+alabama,al,montgomery,huntsville,50645,1775,52420,5024279,32.361538,-86.279118
+alaska,ak,juneau,anchorage,570641,94743,665384,733391,58.301935,-134.41974
+arizona,az,phoenix,phoenix,113594,396,113990,7151502,33.448457,-112.073844
+arkansas,ar,little rock,little rock,52035,1143,53178,3011524,34.736009,-92.331122
+california,ca,sacramento,los angeles,155779,7916,163695,39538223,38.555605,-121.468926
+colorado,co,denver,denver,103642,452,104094,5773714,39.7391667,-104.984167
+connecticut,ct,hartford,bridgeport,4842,701,5543,3605944,41.767,-72.677
+delaware,de,dover,wilmington,1949,540,2489,989948,39.161921,-75.526755
+florida,fl,tallahassee,jacksonville,53625,12133,65758,21538187,30.4518,-84.27277
+georgia,ga,atlanta,atlanta,57513,1912,59425,10711908,33.76,-84.39
+hawaii,hi,honolulu,honolulu,6423,4509,10932,1455271,21.30895,-157.826182
+idaho,id,boise,boise,82643,926,83569,1839106,43.613739,-116.237651
+illinois,il,springfield,chicago,55519,2395,57914,12812508,39.78325,-89.650373
+indiana,in,indianapolis,indianapolis,35826,593,36419,6785528,39.790942,-86.147685
+iowa,ia,des moines,des moines,55857,416,56273,3190369,41.590939,-93.620866
+kansas,ks,topeka,wichita,81759,520,82279,2937880,39.04,-95.69
+kentucky,ky,frankfort,louisville,39486,921,40407,4505836,38.197274,-84.86311
+louisiana,la,baton rouge,new orleans,43204,9174,52378,4657757,30.45809,-91.140229
+maine,me,augusta,portland,30843,4537,35380,1362359,44.323535,-69.765261
+maryland,md,annapolis,baltimore,9707,2699,12406,6177224,38.972945,-76.501157
+massachusetts,ma,boston,boston,7800,2754,10554,7029917,42.2352,-71.0275
+michigan,mi,lansing,detroit,56539,40175,96714,10077331,42.7335,-84.5467
+minnesota,mn,saint paul,minneapolis,79627,7309,86936,5706494,44.95,-93.094
+mississippi,ms,jackson,jackson,46923,1508,48431,2961279,32.32,-90.207
+missouri,mo,jefferson city,kansas city,68742,965,69707,6154913,38.572954,-92.189283
+montana,mt,helena,billings,145546,1494,147040,1084225,46.595805,-112.027031
+nebraska,ne,lincoln,omaha,76824,524,77348,1961504,40.809868,-96.675345
+nevada,nv,carson city,las vegas,109781,791,110572,3104614,39.160949,-119.753877
+new hampshire,nh,concord,manchester,8953,397,9350,1377529,43.220093,-71.549127
+new jersey,nj,trenton,newark,7354,1368,8722,9288994,40.221741,-74.756138
+new mexico,nm,santa fe,albuquerque,121298,292,121590,2117522,35.667231,-105.964575
+new york,ny,albany,new york city,47126,7429,54555,20201249,42.659829,-73.781339
+north carolina,nc,raleigh,charlotte,48618,5201,53819,10439388,35.771,-78.638
+north dakota,nd,bismarck,fargo,69001,1698,70699,779094,48.813343,-100.779004
+ohio,oh,columbus,columbus,40861,3965,44826,11799448,39.962245,-83.000647
+oklahoma,ok,oklahoma city,oklahoma city,68595,1304,69899,3959353,35.482309,-97.534994
+oregon,or,salem,portland,95988,2391,98379,4237256,44.931109,-123.029159
+pennsylvania,pa,harrisburg,philadelphia,44743,1312,46055,13002700,40.269789,-76.875613
+rhode island,ri,providence,providence,1034,511,1545,1097379,41.82355,-71.422132
+south carolina,sc,columbia,charleston,30061,1960,32021,5118425,34,-81.035
+south dakota,sd,pierre,sioux falls,75811,1305,77116,886667,44.367966,-100.336378
+tennessee,tn,nashville,nashville,41235,909,42144,6910840,36.165,-86.784
+texas,tx,austin,houston,261232,7365,268597,29145505,30.266667,-97.75
+utah,ut,salt lake city,salt lake city,82170,2727,84897,3271616,40.7547,-111.892622
+vermont,vt,montpelier,burlington,9217,400,9617,643077,44.26639,-72.57194
+virginia,va,richmond,virginia beach,39490,3285,42775,8631393,37.54,-77.46
+washington,wa,olympia,seattle,66456,4842,71298,7705281,47.042418,-122.893077
+west virginia,wv,charleston,charleston,24038,192,24230,1793716,38.349497,-81.633294
+wisconsin,wi,madison,milwaukee,54158,11339,65497,5893718,43.074722,-89.384444
+wyoming,wy,cheyenne,cheyenne,97093,720,97813,576851,41.145548,-104.802042
